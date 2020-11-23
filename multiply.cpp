@@ -1,9 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-   int product;
-    product=10*2;
-    cout<<"product "<<product<<endl;
+    cout<<"product "<<10*2<<endl;
     return 0;
 }
 
